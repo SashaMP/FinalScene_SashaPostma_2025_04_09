@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: IceShader01
+  m_Name: IceShader02
   m_Shader: {fileID: -6465566751694194690, guid: 21c4ce3df1b4ad04cbfea82f81f8da24,
     type: 3}
   m_Parent: {fileID: 0}
@@ -55,10 +55,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _FresnelPower: -0.2
-    - _IceAmount: 0.04
+    - _FresnelPower: -0.55
+    - _IceAmount: 0.0117
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _Color: {r: 1.4181348, g: 1.695642, b: 1.9396423, a: 1}
+    - _Color: {r: 2, g: 2, b: 2, a: 1}
   m_BuildTextureStacks: []
